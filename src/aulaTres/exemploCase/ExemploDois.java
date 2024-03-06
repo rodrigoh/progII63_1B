@@ -17,6 +17,5 @@ public class ExemploDois {
 			}
 			default -> System.out.println("Número inválido");
 		}
-		}
 	}
 }
