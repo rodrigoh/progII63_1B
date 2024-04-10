@@ -1,7 +1,6 @@
 package aulaSeis.exemploVetores;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class Exemplo5Random {
 	public static void main(String[] args) {
